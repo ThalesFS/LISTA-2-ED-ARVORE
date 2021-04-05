@@ -1,0 +1,10 @@
+1. Considere uma árvore binária completa composta pelos seguintes elementos
+(representação sequencial): 10,20,15,12,8,5,7, 1 e 2.
+(a) Apresente o percurso de pré-ordem na árvore
+(b) Apresente o percurso em-ordem na árvore
+(a) Apresente o percurso de pós-ordem na árvore
+
+
+A - Percurso de pré-ordem na árvore:    10   20   12   1   2   8   15   5   7
+B - Percurso em ordem na árvore:        1   12   2   20   8   10   5   15   7
+C - Percurso de pós-ordem na árvore:    1   2   12   8   20   5   7   15   10
